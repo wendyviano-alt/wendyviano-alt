@@ -2,9 +2,15 @@ title: "Wendy Viano"
 logo: img/Screenshot 2026-04-22 193037.png
 description: >
   Portfolio Data Analyst - AI and Data Analytics<br><br>
+
   <strong>View Project Repository</strong><br>
   <a href="https://github.com/wendyviano-alt/Sales-Performance-Seasonality">
   Sales Performance & 2023 Seasonality Analysis
+  </a><br><br>
+
+  <strong>View Power BI Dashboard</strong><br>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYTE3ZTgzNjYtNWEwOS00NTMzLTkyODctY2NlNjhkNGQ3ZDRhIiwidCI6IjNjZjA0NjA1LWMxNTQtNGRkZi04OGE4LTRmOTczNDYyZjllMCJ9">
+  Open Published Power BI Report
   </a>
 show_downloads: true
 theme: jekyll-theme-minimal
