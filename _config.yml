@@ -1,6 +1,10 @@
 title: "Wendy Viano"
 logo: img/Screenshot 2026-04-22 193037.png
-description: "Portfolio Data Analyst - AI and Data Analytics"
+description: >
+  Portfolio Data Analyst - AI and Data Analytics<br><br>
+  <a href="https://github.com/wendyviano-alt/Sales-Performance-Seasonality">
+  Sales Performance & 2023 Seasonality Analysis
+  </a>
 show_downloads: true
 theme: jekyll-theme-minimal
 lang: en
