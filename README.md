@@ -99,4 +99,4 @@ I am currently building a data analytics and business intelligence portfolio foc
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/wendyviano)
+[LinkedIn](https://www.linkedin.com/in/wendy-viano-31043470)
